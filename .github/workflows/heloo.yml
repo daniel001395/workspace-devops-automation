@@ -2,7 +2,7 @@ name: Hello Github Actions
 
 on:
   push:
-    Branches:
+    branches:
       - main
 
 jobs:
